@@ -1,3 +1,4 @@
+![FE4902's GitHub stats](https://github-readme-stats.vercel.app/api?username=fe4902&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fe4902&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
