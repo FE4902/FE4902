@@ -1,7 +1,9 @@
-<p align="center">
-  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=fe4902&count_private=true&show_icons=true" align="center"/>
-  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fe4902&show_icons=true&locale=en&layout=compact" align="center"/>
-</p>
+<a href="https://github.com/fe4902/github-stats-transparent">
+ <img src="https://raw.githubusercontent.com/fe4902/github-stats-transparent/output/generated/overview.svg" width=49.2% />
+</a>
+<a href="https://github.com/fe4902/github-stats-transparent">
+ <img src="https://raw.githubusercontent.com/fe4902/github-stats-transparent/output/generated/languages.svg" width=49.2% />
+</a>
 
 <!--
 ### Hi there 👋
