@@ -1,5 +1,7 @@
-![FE4902's GitHub stats](https://github-readme-stats.vercel.app/api?username=fe4902&show_icons=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fe4902&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fe4902&count_private=true&show_icons=true" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fe4902&show_icons=true&locale=en&layout=compact" align = "center"/>
+</p>
 
 <!--
 ### Hi there 👋
