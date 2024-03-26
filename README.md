@@ -1,4 +1,3 @@
-
 <a href="https://github.com/fe4902/github-stats-transparent">
  <img src="https://raw.githubusercontent.com/fe4902/github-stats-transparent/output/generated/overview.svg" width=49.2% />
 </a>
