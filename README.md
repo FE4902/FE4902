@@ -1,10 +1,3 @@
-<a href="https://github.com/fe4902/github-stats-transparent">
- <img src="https://raw.githubusercontent.com/fe4902/github-stats-transparent/output/generated/overview.svg" width=49.2% />
-</a>
-<a href="https://github.com/fe4902/github-stats-transparent">
- <img src="https://raw.githubusercontent.com/fe4902/github-stats-transparent/output/generated/languages.svg" width=49.2% />
-</a>
-
 <!--
 ### Hi there 👋
 **FE4902/FE4902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
